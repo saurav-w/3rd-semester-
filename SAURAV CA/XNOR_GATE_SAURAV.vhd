@@ -1,0 +1,16 @@
+
+LIBRARY ieee;
+USE ieee.std_logic_1164.ALL;
+
+ENTITY XNOR_GATE_SAURAV IS
+	PORT (
+	  A : IN STD_LOGIC;
+	  B : IN STD_LOGIC;
+	  Y : OUT STD_LOGIC
+	);
+END XNOR_GATE_SAURAV;
+
+ARCHITECTURE Behaviour of XNOR_GATE_SAURAV IS
+BEGIN
+   Y <= A XNOR B;
+END behaviour;

@@ -1,0 +1,603 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/17.1
+Eadd_bit4_garima
+Z0 w1767542665
+Z1 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z4 dC:/Users/ACER/OneDrive/Desktop/SAURAV CA
+Z5 8C:/Users/ACER/OneDrive/Desktop/SAURAV CA/add_bit4_Garima.vhd
+Z6 FC:/Users/ACER/OneDrive/Desktop/SAURAV CA/add_bit4_Garima.vhd
+l0
+L5
+V^5S4X7C>HAB9;5IA@jSaV0
+!s100 f2]__dV_::P9iEj:EQ<6j1
+Z7 OV;C;10.5b;63
+32
+Z8 !s110 1767542669
+!i10b 1
+Z9 !s108 1767542669.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/ACER/OneDrive/Desktop/SAURAV CA/add_bit4_Garima.vhd|
+Z11 !s107 C:/Users/ACER/OneDrive/Desktop/SAURAV CA/add_bit4_Garima.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1 CvgOpt 0
+Aeasy
+R1
+R2
+R3
+DEx4 work 15 add_bit4_garima 0 22 ^5S4X7C>HAB9;5IA@jSaV0
+l16
+L14
+V7HO`7@A4g;>6Z?J9[I1V]3
+!s100 _[b@II[5Hk:;E]N>9V`T52
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Eand_gate_muna
+Z14 w1765730001
+R2
+R3
+R4
+Z15 8C:/Users/ACER/OneDrive/Desktop/SAURAV CA/AND_GATE_MUNA .vhd
+Z16 FC:/Users/ACER/OneDrive/Desktop/SAURAV CA/AND_GATE_MUNA .vhd
+l0
+L5
+VUn6=JjCXV8<M31d7<a9;n1
+!s100 D53:14RI?QKb[P8`>[;oz1
+R7
+32
+Z17 !s110 1765730007
+!i10b 1
+Z18 !s108 1765730007.000000
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/ACER/OneDrive/Desktop/SAURAV CA/AND_GATE_MUNA .vhd|
+Z20 !s107 C:/Users/ACER/OneDrive/Desktop/SAURAV CA/AND_GATE_MUNA .vhd|
+!i113 1
+R12
+R13
+Abehaviour
+R2
+R3
+DEx4 work 13 and_gate_muna 0 22 Un6=JjCXV8<M31d7<a9;n1
+l14
+L13
+V3oO<[JXUAB]ji0T]ZHoNz3
+!s100 d9_Q5[7U0H^oBhGmm?7Ri2
+R7
+32
+R17
+!i10b 1
+R18
+R19
+R20
+!i113 1
+R12
+R13
+Eand_gate_saurav
+Z21 w1765637232
+R2
+R3
+R4
+Z22 8C:/Users/ACER/OneDrive/Desktop/SAURAV CA/AND_GATE_SAURAV.vhd
+Z23 FC:/Users/ACER/OneDrive/Desktop/SAURAV CA/AND_GATE_SAURAV.vhd
+l0
+L4
+VaB@n6CUATAHfi@9GAKoOF0
+!s100 ;KW]HP6Vef5:n3^cJ;Kok0
+R7
+32
+Z24 !s110 1765638961
+!i10b 1
+Z25 !s108 1765638961.000000
+Z26 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/ACER/OneDrive/Desktop/SAURAV CA/AND_GATE_SAURAV.vhd|
+Z27 !s107 C:/Users/ACER/OneDrive/Desktop/SAURAV CA/AND_GATE_SAURAV.vhd|
+!i113 1
+R12
+R13
+Abehaviour
+R2
+R3
+DEx4 work 15 and_gate_saurav 0 22 aB@n6CUATAHfi@9GAKoOF0
+l13
+L12
+V@H8^bJz1393CkD3YDk]`63
+!s100 ZL[CTHbSiSfG3ZmL>bXlF1
+R7
+32
+R24
+!i10b 1
+R25
+R26
+R27
+!i113 1
+R12
+R13
+Ebadd_saurav
+Z28 w1766291065
+Z29 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z30 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+R2
+R3
+R4
+Z31 8C:/Users/ACER/OneDrive/Desktop/SAURAV CA/BADD_SAURAV.vhd
+Z32 FC:/Users/ACER/OneDrive/Desktop/SAURAV CA/BADD_SAURAV.vhd
+l0
+L5
+Vb4]K8W9Lhc[N5aW0DVUJ[2
+!s100 a8?39DFW_5[gkW^m3oJ:J3
+R7
+32
+Z33 !s110 1766936663
+!i10b 1
+Z34 !s108 1766936663.000000
+Z35 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/ACER/OneDrive/Desktop/SAURAV CA/BADD_SAURAV.vhd|
+Z36 !s107 C:/Users/ACER/OneDrive/Desktop/SAURAV CA/BADD_SAURAV.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R29
+R30
+R2
+R3
+DEx4 work 11 badd_saurav 0 22 b4]K8W9Lhc[N5aW0DVUJ[2
+l18
+L15
+VK[zk:_6z]IUbCKo5RjHZO2
+!s100 RXYacHoCG[7dj7=zNV6[P1
+R7
+32
+R33
+!i10b 1
+R34
+R35
+R36
+!i113 1
+R12
+R13
+Efs_saurav
+Z37 w1766290196
+R2
+R3
+R4
+Z38 8C:/Users/ACER/OneDrive/Desktop/SAURAV CA/FS_SAURAV.vhd
+Z39 FC:/Users/ACER/OneDrive/Desktop/SAURAV CA/FS_SAURAV.vhd
+l0
+L4
+VzOfJm_j1Z:>kV7BTTFHdR2
+!s100 lH4TZ0@z94P9P9<F;JW>S2
+R7
+32
+Z40 !s110 1766290201
+!i10b 1
+Z41 !s108 1766290201.000000
+Z42 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/ACER/OneDrive/Desktop/SAURAV CA/FS_SAURAV.vhd|
+Z43 !s107 C:/Users/ACER/OneDrive/Desktop/SAURAV CA/FS_SAURAV.vhd|
+!i113 1
+R12
+R13
+Abehaviour
+R2
+R3
+DEx4 work 9 fs_saurav 0 22 zOfJm_j1Z:>kV7BTTFHdR2
+l15
+L14
+VK6=>el^1;Z^;dA]OhPFK>2
+!s100 6BXWQ@f[>1S561ERTR70]0
+R7
+32
+R40
+!i10b 1
+R41
+R42
+R43
+!i113 1
+R12
+R13
+Efull_adder
+Z44 w1765686356
+R2
+R3
+R4
+Z45 8C:/Users/ACER/OneDrive/Desktop/SAURAV CA/FULL_ADDER_SAURAV.vhd
+Z46 FC:/Users/ACER/OneDrive/Desktop/SAURAV CA/FULL_ADDER_SAURAV.vhd
+l0
+L5
+V]n:e=f_g6J@:R2T^XQAzU3
+!s100 :I2d?2_RiiPTSfJ1[h1So2
+R7
+32
+Z47 !s110 1765686361
+!i10b 1
+Z48 !s108 1765686361.000000
+Z49 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/ACER/OneDrive/Desktop/SAURAV CA/FULL_ADDER_SAURAV.vhd|
+Z50 !s107 C:/Users/ACER/OneDrive/Desktop/SAURAV CA/FULL_ADDER_SAURAV.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R2
+R3
+DEx4 work 10 full_adder 0 22 ]n:e=f_g6J@:R2T^XQAzU3
+l16
+L15
+V^2>@f7Sz^WczL:4a4hdP12
+!s100 BXjRz[fZmT[H><=dH79hY1
+R7
+32
+R47
+!i10b 1
+R48
+R49
+R50
+!i113 1
+R12
+R13
+Efull_adder_saurav
+Z51 w1765686445
+R2
+R3
+R4
+R45
+R46
+l0
+L5
+V2IV]LY?90e[DL9R9K`B4G2
+!s100 AcYJO1BKQhX?S2J@DI_c<1
+R7
+32
+Z52 !s110 1765686477
+!i10b 1
+Z53 !s108 1765686477.000000
+R49
+R50
+!i113 1
+R12
+R13
+Abehavioral
+R2
+R3
+DEx4 work 17 full_adder_saurav 0 22 2IV]LY?90e[DL9R9K`B4G2
+l16
+L15
+V2C`_iD`HIVfS4AIgPkD5k3
+!s100 58[Qa[Rn2mbdblfzE@ek83
+R7
+32
+R52
+!i10b 1
+R53
+R49
+R50
+!i113 1
+R12
+R13
+Ehalf_adder_saurav
+Z54 w1765685863
+R2
+R3
+R4
+Z55 8C:/Users/ACER/OneDrive/Desktop/SAURAV CA/HALF_ADDER_SAURAV.vhd
+Z56 FC:/Users/ACER/OneDrive/Desktop/SAURAV CA/HALF_ADDER_SAURAV.vhd
+l0
+L5
+VQAdhXi^jMSn9ROQe?RU:l2
+!s100 >cmbhc=dK`PHJ73IhzK5<0
+R7
+32
+Z57 !s110 1765685867
+!i10b 1
+Z58 !s108 1765685867.000000
+Z59 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/ACER/OneDrive/Desktop/SAURAV CA/HALF_ADDER_SAURAV.vhd|
+Z60 !s107 C:/Users/ACER/OneDrive/Desktop/SAURAV CA/HALF_ADDER_SAURAV.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R2
+R3
+DEx4 work 17 half_adder_saurav 0 22 QAdhXi^jMSn9ROQe?RU:l2
+l15
+L14
+VegJnV0l>8F?o?7Q0FMZ]32
+!s100 alaADAJ:iH:SE8WeTC^aB1
+R7
+32
+R57
+!i10b 1
+R58
+R59
+R60
+!i113 1
+R12
+R13
+Ehs_saurav
+Z61 w1766289774
+R2
+R3
+R4
+Z62 8C:/Users/ACER/OneDrive/Desktop/SAURAV CA/HS_SAURAV.vhd
+Z63 FC:/Users/ACER/OneDrive/Desktop/SAURAV CA/HS_SAURAV.vhd
+l0
+L4
+VBgn2[dYNJ`2ZGR>1QMddk1
+!s100 d:lM3<Y>IEbVS=SmFaNK`0
+R7
+32
+Z64 !s110 1766289779
+!i10b 1
+Z65 !s108 1766289779.000000
+Z66 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/ACER/OneDrive/Desktop/SAURAV CA/HS_SAURAV.vhd|
+Z67 !s107 C:/Users/ACER/OneDrive/Desktop/SAURAV CA/HS_SAURAV.vhd|
+!i113 1
+R12
+R13
+Abehaviour
+R2
+R3
+DEx4 work 9 hs_saurav 0 22 Bgn2[dYNJ`2ZGR>1QMddk1
+l14
+L13
+VSH0^O>IO:^J0ELNd?6QV@2
+!s100 c]jX;U455i;O`9X@Z8:KU1
+R7
+32
+R64
+!i10b 1
+R65
+R66
+R67
+!i113 1
+R12
+R13
+Enand_gate_saurav
+Z68 w1765641259
+R2
+R3
+R4
+Z69 8C:/Users/ACER/OneDrive/Desktop/SAURAV CA/NAND_GATE_SAURAV.vhd
+Z70 FC:/Users/ACER/OneDrive/Desktop/SAURAV CA/NAND_GATE_SAURAV.vhd
+l0
+L6
+VN4nTz:<gj1j2gK8:2Q7fE1
+!s100 X6IRQm8kN37l1D[i[VS6U0
+R7
+32
+Z71 !s110 1765641267
+!i10b 1
+Z72 !s108 1765641267.000000
+Z73 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/ACER/OneDrive/Desktop/SAURAV CA/NAND_GATE_SAURAV.vhd|
+Z74 !s107 C:/Users/ACER/OneDrive/Desktop/SAURAV CA/NAND_GATE_SAURAV.vhd|
+!i113 1
+R12
+R13
+Abehaviour
+R2
+R3
+DEx4 work 16 nand_gate_saurav 0 22 N4nTz:<gj1j2gK8:2Q7fE1
+l15
+L14
+V5`CPcB>o]7f^<m[heD?HG1
+!s100 3@gS>D4z2CdVGJjT^b_U23
+R7
+32
+R71
+!i10b 1
+R72
+R73
+R74
+!i113 1
+R12
+R13
+Enor_gate_saurav
+Z75 w1765641721
+R2
+R3
+R4
+Z76 8C:/Users/ACER/OneDrive/Desktop/SAURAV CA/NOR_GATE_SAURAV.vhd
+Z77 FC:/Users/ACER/OneDrive/Desktop/SAURAV CA/NOR_GATE_SAURAV.vhd
+l0
+L6
+VfN01KIldHMnKK6_0R4edz1
+!s100 8@5E<:=XoM6ljAeYm:fIG2
+R7
+32
+Z78 !s110 1765642105
+!i10b 1
+Z79 !s108 1765642105.000000
+Z80 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/ACER/OneDrive/Desktop/SAURAV CA/NOR_GATE_SAURAV.vhd|
+Z81 !s107 C:/Users/ACER/OneDrive/Desktop/SAURAV CA/NOR_GATE_SAURAV.vhd|
+!i113 1
+R12
+R13
+Abehaviour
+R2
+R3
+DEx4 work 15 nor_gate_saurav 0 22 fN01KIldHMnKK6_0R4edz1
+l15
+L14
+VD=F<BJI?h3]OaaGFMbc>30
+!s100 <AMhz>WO5034HC];Oe4<g1
+R7
+32
+R78
+!i10b 1
+R79
+R80
+R81
+!i113 1
+R12
+R13
+Eor_gate_saurav
+Z82 w1765640737
+R2
+R3
+R4
+Z83 8C:/Users/ACER/OneDrive/Desktop/SAURAV CA/OR_GATE_SAURAV.vhd
+Z84 FC:/Users/ACER/OneDrive/Desktop/SAURAV CA/OR_GATE_SAURAV.vhd
+l0
+L5
+VSXzODz?9Kz:o9<AMhG7B40
+!s100 MMPl@Z6P0EN^UGXUJ[YT_2
+R7
+32
+Z85 !s110 1765640743
+!i10b 1
+Z86 !s108 1765640743.000000
+Z87 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/ACER/OneDrive/Desktop/SAURAV CA/OR_GATE_SAURAV.vhd|
+Z88 !s107 C:/Users/ACER/OneDrive/Desktop/SAURAV CA/OR_GATE_SAURAV.vhd|
+!i113 1
+R12
+R13
+Abehaviour
+R2
+R3
+DEx4 work 14 or_gate_saurav 0 22 SXzODz?9Kz:o9<AMhG7B40
+l14
+L13
+V4VP5ikHgO4XdTOYnMi4DO0
+!s100 0Y08H;h[cSX0WniEF0GBD1
+R7
+32
+R85
+!i10b 1
+R86
+R87
+R88
+!i113 1
+R12
+R13
+Esubbit4_garima
+Z89 w1767543403
+R1
+R2
+R3
+R4
+Z90 8C:/Users/ACER/OneDrive/Desktop/SAURAV CA/subbit4_Garima.vhd
+Z91 FC:/Users/ACER/OneDrive/Desktop/SAURAV CA/subbit4_Garima.vhd
+l0
+L5
+V9:g]_[PB6Wjm1VHAeNkNk2
+!s100 QVM5SZ>L8]KifVV>h0eU_2
+R7
+32
+Z92 !s110 1767543408
+!i10b 1
+Z93 !s108 1767543407.000000
+Z94 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/ACER/OneDrive/Desktop/SAURAV CA/subbit4_Garima.vhd|
+Z95 !s107 C:/Users/ACER/OneDrive/Desktop/SAURAV CA/subbit4_Garima.vhd|
+!i113 1
+R12
+R13
+Aeasy
+R1
+R2
+R3
+DEx4 work 14 subbit4_garima 0 22 9:g]_[PB6Wjm1VHAeNkNk2
+l16
+L14
+V;8AUmOY9bU<>Gh9E7TW@I0
+!s100 6GKaBEa;bgD@IEogglQ420
+R7
+32
+R92
+!i10b 1
+R93
+R94
+R95
+!i113 1
+R12
+R13
+Exnor_gate_saurav
+Z96 w1765643684
+R2
+R3
+R4
+Z97 8C:/Users/ACER/OneDrive/Desktop/SAURAV CA/XNOR_GATE_SAURAV.vhd
+Z98 FC:/Users/ACER/OneDrive/Desktop/SAURAV CA/XNOR_GATE_SAURAV.vhd
+l0
+L5
+VcG44zOUa:V;gkW3DZ]b?P1
+!s100 ?5TzlI=iAbV5dKZ8b8U0I1
+R7
+32
+Z99 !s110 1765643705
+!i10b 1
+Z100 !s108 1765643705.000000
+Z101 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/ACER/OneDrive/Desktop/SAURAV CA/XNOR_GATE_SAURAV.vhd|
+Z102 !s107 C:/Users/ACER/OneDrive/Desktop/SAURAV CA/XNOR_GATE_SAURAV.vhd|
+!i113 1
+R12
+R13
+Abehaviour
+R2
+R3
+DEx4 work 16 xnor_gate_saurav 0 22 cG44zOUa:V;gkW3DZ]b?P1
+l14
+L13
+VVel]BkU;DJOW@HC2Hlc`[3
+!s100 :`F4@Mac9>[XSlTzO?P??0
+R7
+32
+R99
+!i10b 1
+R100
+R101
+R102
+!i113 1
+R12
+R13
+Exor_gate_saurav
+Z103 w1765643084
+R2
+R3
+R4
+Z104 8C:/Users/ACER/OneDrive/Desktop/SAURAV CA/XOR_GATE_SAURAV.vhd
+Z105 FC:/Users/ACER/OneDrive/Desktop/SAURAV CA/XOR_GATE_SAURAV.vhd
+l0
+L4
+V4FQe6S7hBk4hH<i79FHIc0
+!s100 KH60men@Ofa=PVE1lG^5T1
+R7
+32
+Z106 !s110 1765643094
+!i10b 1
+Z107 !s108 1765643094.000000
+Z108 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/ACER/OneDrive/Desktop/SAURAV CA/XOR_GATE_SAURAV.vhd|
+Z109 !s107 C:/Users/ACER/OneDrive/Desktop/SAURAV CA/XOR_GATE_SAURAV.vhd|
+!i113 1
+R12
+R13
+Abehaviour
+R2
+R3
+DEx4 work 15 xor_gate_saurav 0 22 4FQe6S7hBk4hH<i79FHIc0
+l13
+L12
+Vo>QbL^T<0e?2RGd=CHY_V1
+!s100 L;bcF6FG6:fNd6eUe`=2H3
+R7
+32
+R106
+!i10b 1
+R107
+R108
+R109
+!i113 1
+R12
+R13

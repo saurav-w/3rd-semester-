@@ -1,0 +1,18 @@
+
+library IEEE;
+use IEEE.STD_LOGIC_1164.ALL;
+
+entity HALF_ADDER_SAURAV IS
+    Port (
+        A     : in  STD_LOGIC;
+        B     : in  STD_LOGIC;
+        SUM   : out STD_LOGIC;
+        CARRY : out STD_LOGIC
+    );
+end HALF_ADDER_SAURAV ;
+
+architecture Behavioral of HALF_ADDER_SAURAV IS
+begin
+    SUM   <= A xor B;
+    CARRY <= A and B;
+end Behavioral;

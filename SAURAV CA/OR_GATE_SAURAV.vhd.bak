@@ -1,0 +1,16 @@
+
+LIBRARY ieee;
+USE ieee.std_logic_1164.ALL;
+
+ENTITY OR_GATE_SAURAV IS
+	PORT (
+	  A : IN STD_LOGIC;
+	  B : IN STD_LOGIC;
+	  Y : OUT STD_LOGIC
+	);
+END OR_GATE_SAURAV;
+
+ARCHITECTURE Behaviour of OR_GATE_SAURAV IS
+BEGIN
+   Y <= A OR B;
+END behaviour;

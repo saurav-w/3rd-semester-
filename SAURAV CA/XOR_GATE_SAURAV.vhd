@@ -1,0 +1,15 @@
+LIBRARY ieee;
+USE ieee.std_logic_1164.ALL;
+
+ENTITY XOR_GATE_SAURAV IS
+	PORT (
+	  A : IN STD_LOGIC;
+	  B : IN STD_LOGIC;
+	  Y : OUT STD_LOGIC
+	);
+END XOR_GATE_SAURAV;
+
+ARCHITECTURE Behaviour of XOR_GATE_SAURAV IS
+BEGIN
+   Y <= A XOR B;
+END behaviour;

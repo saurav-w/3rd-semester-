@@ -1,0 +1,17 @@
+
+
+LIBRARY ieee;
+USE ieee.std_logic_1164.ALL;
+
+ENTITY NOR_GATE_SAURAV IS
+	PORT (
+	  A : IN STD_LOGIC;
+	  B : IN STD_LOGIC;
+	  Y : OUT STD_LOGIC
+	);
+END NOR_GATE_SAURAV;
+
+ARCHITECTURE Behaviour of NOR_GATE_SAURAV IS
+BEGIN
+   Y <= A NOR B;
+END behaviour;

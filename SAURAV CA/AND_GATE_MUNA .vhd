@@ -1,0 +1,16 @@
+
+LIBRARY ieee;
+USE ieee.std_logic_1164.ALL;
+
+ENTITY AND_GATE_MUNA IS
+	PORT (
+	  A : IN STD_LOGIC;
+	  B : IN STD_LOGIC;
+	  Y : OUT STD_LOGIC
+	);
+END AND_GATE_MUNA;
+
+ARCHITECTURE Behaviour of AND_GATE_MUNA IS
+BEGIN
+   Y <= A AND B;
+END behaviour;
